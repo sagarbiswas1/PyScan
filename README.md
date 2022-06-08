@@ -1,7 +1,6 @@
 # PyScan
 A fast port scanner written in python
 
-**Version 1.0**
 
 # Usage
 ```bash
