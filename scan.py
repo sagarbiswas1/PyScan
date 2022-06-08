@@ -6,7 +6,6 @@ import time
 import socket
 import threading
 from queue import Queue
-import data._vars as var
 import parts.__ping as ping
 import parts.__print as prnt
 import parts.__argvmanager as manage
@@ -18,9 +17,8 @@ print(f'''
 \033[34;1m  |  __/| |_| |\033[0;1m___) | (_| (_| | | | |
 \033[34;1m  |_|    \\__, |\033[0;1m____/ \\___\\__,_|_| |_|
 \033[34;1m         |___/
-                    \033[32;1mwritten by {var.author}\033[0m
+                    \033[32;1mwritten by \x53\x61\x67\x61\x72\x30\x37\x35\033[0m
 
-  ____________ VERSION {var.version} ____________
 ''')
 
 this_file = os.path.basename(__file__)
