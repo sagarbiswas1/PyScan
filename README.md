@@ -5,7 +5,7 @@ A fast port scanner written in python
 
 # Usage
 ```bash
-Python3 scan.py [ Host ] [ OPTIONS ]
+Python PyScan.py [ Host ] [ OPTIONS ]
 ```
 # Options
 ```bash
